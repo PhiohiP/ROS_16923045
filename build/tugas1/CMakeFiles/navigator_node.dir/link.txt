@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/navigator_node.dir/src/navigatorNode.cpp.o  -o /home/heart/catkin_ws/devel/lib/tugas1/navigator_node  -ltugas1 

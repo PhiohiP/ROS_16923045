@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/commander_node.dir/src/commanderNode.cpp.o  -o /home/heart/catkin_ws/devel/lib/tugas1/commander_node  -ltugas1 

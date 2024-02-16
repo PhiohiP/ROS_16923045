@@ -1,0 +1,8 @@
+prefix=/home/heart/catkin_ws/install
+
+Name: tugas1
+Description: Description of tugas1
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ltugas1
+Requires: roscpp std_msgs
